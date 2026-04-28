@@ -51,3 +51,9 @@ Enlaces de descarga:
 - Gráficos de distribución por segmentos
 - Análisis de comportamientos atípicos
 - Identificación de patrones comerciales
+
+🚀 Cómo Ejecutar el Notebook
+Opción 1: Google Colab (Recomendado)
+Abrir el notebook en Google Colab:
+Sube el archivo .ipynb a Google Colab
+O usa el enlace directo: https://colab.research.google.com/
